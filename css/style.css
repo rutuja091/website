@@ -10,7 +10,7 @@ body {
   .navbar {
     height: 100px;
     width: 100%;
-    background-color:darkgrey;
+    background-color:darkgray;
     position: fixed;
     top: 0px;
     left: 0px;
@@ -59,8 +59,12 @@ body {
     right: 0px;
   }
   
-  
-  
+  .footer p{
+    justify-content: center;
+    text-align: center;
+    margin: 40px;
+  }
+ 
 
  
   
