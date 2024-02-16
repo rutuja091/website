@@ -49,38 +49,22 @@ body {
   
   
   
-  
-  .footer-container{
-      height: 100px;
+  .footer {
+    height: 100px;
     width: 100%;
-    background-color:darkgray;
+    background-color:darkgrey;
     position: fixed;
-   bottom: 0px;
+    bottom: 0px;
     left: 0px;
     right: 0px;
-    display:inline-block;
-   justify-content: center;
-   text-align: center; 
   }
+  
   
   
 
-  .social-links a{
-    display: inline-block;
-    height: 40px;
-    width: 40px;
-    background-color:black;
-    margin-bottom: 2px;
-    text-align: center;
-    line-height: 40px;
-    border-radius: 50%;
-    color:white;
-    transition: all 0.5s ease;
-    margin-top: 10px;
-   
-  }
+ 
   
-  
+
   
   
   

@@ -8,10 +8,11 @@
 
 
 .first{
-    height: 500px;
+    height: auto;
     width:500px;
     background-color: aqua;
     margin: 10px 10px;
     padding: 10px 10px;
+    background-image: url();
     
 }
