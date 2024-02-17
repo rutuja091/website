@@ -8,9 +8,10 @@ A Contact Us page provides guidance for existing customers and offers an overvie
 
 ## Feedback Form
 
-In contact page inclue the feedback form .
+In contact page include the feedback form .
 
 ![screenshots](./image/Screenshot%20(157).png)
+
 
 
 
